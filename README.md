@@ -8,8 +8,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" ></img>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bielzera86&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIelzera86&layout=compact=true&theme=radical)](https://github.com/Bielzera86/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielaugusto&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielaugusto&layout=compact=true&theme=radical)](https://github.com/biealaugusto/github-readme-stats)
 
 
 
