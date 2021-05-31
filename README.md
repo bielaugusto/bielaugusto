@@ -29,6 +29,8 @@
 <img align="center" alt="Gabriel-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100;"*>
 </a>
 
+![Snake animation](https://github.com/bielagusto/bielaugusto/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 BIelzera86/BIelzera86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
