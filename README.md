@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/gabriel-augusto-1706581b3/" target="_blank">
 <img align="center" alt="Gabriel-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100;"*>
 </a>
-<a href="https://twitter.com/vidal_bieel" target="_blank">
-<img align="center" alt="Gabriel-twiter" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100;"*>
-</a>
 <a href="https://www.instagram.com/vidal_bieel/" target="_blank">
 <img align="center" alt="Gabriel-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100;"*>
 </a>
