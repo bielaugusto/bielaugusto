@@ -6,6 +6,7 @@
 ## I'm learning:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" ></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" ></img>
 
@@ -27,7 +28,7 @@
 <img align="center" alt="Gabriel-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100;"*>
 </a>
 
-![Snake animation](https://github.com/bielaugusto/bielaugusto/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
