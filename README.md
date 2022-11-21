@@ -3,7 +3,6 @@
 #### Atualmente curso o ensino médio integrado com um curso técnico em informática no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais(IFMG) Campus Ribeirão das Neves
 
 
-## I'm learning:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
