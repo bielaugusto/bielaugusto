@@ -1,6 +1,6 @@
 # Oiê!!
 ## Eu sou Gabriel Augsto
-#### Atualmente curso o ensino médio integrado com um curso técnico em informática no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais(IFMG) Campus Ribeirão das Neves
+#### Atualmente curso Análise e desenvolvimento de sistemas na PUC Minas, e concluí meu ensino médio integrado com um curso técnico em informática no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais(IFMG) Campus Ribeirão das Neves
 
 
 
