@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" ></img>
 
-
+<!--
 ## How to reach me:
 
 <a href="gabriel.lanavidal@gmail.com" target="_blank">
@@ -26,9 +26,10 @@
 <a href="https://www.instagram.com/bielvidal__/" target="_blank">
 <img align="center" alt="Gabriel-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100;"*>
 </a>
-
+-->
 
 ![Snake animation](https://github.com/bielaugusto/bielaugusto/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 BIelzera86/BIelzera86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
