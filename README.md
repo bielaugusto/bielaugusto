@@ -20,7 +20,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas e concluí 
 
 ### 📫 Como me encontrar:
 
-* [LinkedIn](linkedin.com/in/gabriel-augusto-vidal)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-vidal)
 * [Email](mailto:gabriel.lanavidal@gmail.com)
 * [GitHub](https://github.com/bielaugusto)
 <!-- ![Snake animation](https://github.com/bielaugusto/bielaugusto/blob/output/github-contribution-grid-snake.svg) -->
